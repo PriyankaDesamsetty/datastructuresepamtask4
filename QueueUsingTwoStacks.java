@@ -1,4 +1,5 @@
 package ds;
+
 import java.util.*;
 
 class Queue {
@@ -42,6 +43,6 @@ class QueueUsingTwoStacks {
 				System.out.println(q.printfront());
 
 		}
-sc.close();
+		sc.close();
 	}
 }
